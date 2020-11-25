@@ -1,2 +1,2 @@
-# web-portfolio
-# web-portfolio
+Technology Used
+HTML, CSS
